@@ -8,6 +8,5 @@ public class Main {
         BoardApp app = new BoardApp();
 
         app.run();
-
     }
 }

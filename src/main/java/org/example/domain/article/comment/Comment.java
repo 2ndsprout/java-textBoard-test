@@ -1,7 +1,5 @@
 package org.example.domain.article.comment;
 
-import org.example.base.CommonUtil;
-
 public class Comment {
     private String content;
     private String contentRegDate;
